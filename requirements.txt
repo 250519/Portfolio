@@ -1,0 +1,11 @@
+# docling
+python-dotenv
+fastapi
+uvicorn
+pinecone
+langchain_pinecone
+langchain-groq
+langchain
+langchain_community
+pypdf
+google-generativeai
